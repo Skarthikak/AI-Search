@@ -23,3 +23,8 @@ python app.py
 cd frontend
 npm install
 npm start
+
+git add .
+git commit -m "Initial setup for AI search engine"
+git push origin main
+

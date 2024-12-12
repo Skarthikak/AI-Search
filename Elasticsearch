@@ -1,0 +1,15 @@
+from elasticsearch import Elasticsearch
+
+es = Elasticsearch()
+
+# Create an index
+es.indices.create(index='ai_search_engine', ignore=400)
+
+# Index some sample data
+sample_data = [
+    {"title": "Transformer Model", "content": "This is a transformer model for NLP tasks."},
+    {"title": "AI News Update", "content": "Latest developments in AI and machine learning."}
+]
+
+for i, data in enumerate(sample_data):
+    es.index(index='ai_search_engine', id=i, body=data)

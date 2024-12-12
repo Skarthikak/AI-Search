@@ -5,3 +5,21 @@ git init
 git add README.md
 git commit -m "Initial commit"
 git push -u origin main
+# AI Search Engine
+
+This project is an AI search engine that fetches AI models from the Hugging Face Model Hub and AI news updates from NewsAPI.
+
+## Setup
+
+### Backend
+
+1. Navigate to the `backend` directory:
+   ```bash
+   cd backend
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+pip install -r requirements.txt
+python app.py
+cd frontend
+npm install
+npm start

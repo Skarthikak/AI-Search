@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 32,
+-"articles": [
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "Investopedia",
+"title": "Watch These Tesla Stock Price Levels After First Record High in Three Years - Investopedia",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3FGSm1XZ3lwZkdIUXdwcHE2aVNrelQ0VWdLZG9tZXBRZXR5TTg1dXdaMEFENVVvbHhfTGVlMng3NWVELTAwa2VNWmtwODdCdWV1cEtmQm1oejlIYXZoT0UzTDd3VzlrOTdrUWZ6cGJxNUN4bFExS0toQ1BPS1ZnOGdWUzVGYmNvcG9SbE5ZYmV1WnpTdGtoMTRaRURSTTdsWjJKQ0pzRnNya2Y4ZDd4NktR?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-12-12T03:20:42Z",
+"content": null
+},
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "The Wall Street Journal",
+"title": "Appeals Court Strikes Down Nasdaq’s Board-Diversity Rules - The Wall Street Journal",
+"description": null,
+"url": "https://www.wsj.com/finance/stocks/appeals-court-strikes-down-nasdaqs-board-diversity-rules-0a2eb7ee",
+"urlToImage": null,
+"publishedAt": "2024-12-12T03:19:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "The Wall Street Journal",
+"title": "David Bonderman, Private-Equity Founder, Dead at 82 - The Wall Street Journal",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNek1HNmh3YlRkY0otWDFQNFh5MF9wcERzQjhKcWJGOE42YlVGUVRlRHEwZmh1aWIxZjdRT0ZtWUtFZ2RQUkZJOVItT2tlX24wc0xISHhKeEM0a3Rya1pzRjljYjVYMWs5TDg1QUR0Um9sS2R1SDNQYUZ2Q0hveFhXUTlB?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-12-12T02:59:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "CNBC",
+"title": "Stock futures slip after Nasdaq notches record close above 20,000: Live updates - CNBC",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xU2drRTQwMFV2ZnpoaUplbEN4UmFFV1BqU1I4VU91SWlOUmNNa1RrQWk2aG9WSzFFaXNKVlJYT3FtZVFNV01KSi15ZU9JUHBmTEZpSHhRNTVoNVNkWnJuUGQzRnZoazVTRm9Bdm41ekswcVEybTRB0gF8QVVfeXFMTmFVRC1hSG84NHJMX2p6RmFOQktLTDlxUUp3R0x3bzhrRzdNYkc2X3F6ZldxbHN1YXkzeTdtbnc3UlJiVDZ1V2ZLcDl5cnI4bUNuUi1rYlhBNmFwdDBod09DYlR3RXB4Mzkwb1dnWVN4ZXNKaGs5Q1FWRlQzSA?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-12-12T01:17:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "Fortune",
+"title": "With General Motors pulling the plug on Cruise, every American automaker except Tesla has called it quits on robotaxis - Fortune",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHlZbGpvR29uUV9tcHhUUHJZc2JIUGRLaFBTb3EtVTc5MXR1eG55UHMySlc4ZEl1emxBdEFpOVM5RVItc253T0dXcWUyeERwNG9rNndHZWhJam5kRTZ4emh5dy04eVBYVlZlUE5QRUtoZjZyS24yRTAyMzRoOFozNHNiazA3VHoxTVhlYg?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-12-12T01:05:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Investopedia"
+},
+"author": "Andrew Kessel",
+"title": "Google Parent Alphabet's Stock Soars to All-Time High - Investopedia",
+"description": "Google parent Alphabet's shares climbed to a record high Wednesday, a day after the company unveiled a new quantum computing chip known as Willow.",
+"url": "https://www.investopedia.com/google-parent-alphabet-stock-soars-to-all-time-high-8760015",
+"urlToImage": "https://www.investopedia.com/thmb/z31E4WlvogJOCPdZFG4CyiDf4f4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-21666714821-ed8468f30a5044a7a2b6b2b705e5f58b.jpg",
+"publishedAt": "2024-12-11T23:51:54Z",
+"content": "<ul><li>Shares of Google parent Alphabet surged to an all-time high Wednesday after the tech giant unveiled its latest AI model with Gemini 2.0 and U.S. President-elect Donald Trump tapped Andrew Fer… [+1473 chars]"
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "TheStreet",
+"title": "Apple reveals new AI chip building partner, and it isn't Amazon - TheStreet",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVDllQmQ0TVV5WVhRSVpwU2ZfblJQTUs0U3pYWGQ0VTZtdDJGM1RZdUFUMUo3aE1Ba01vM05xTFRWSkVVS0oxbFdab203RndsTnJ5NmcwZTdTWFBGVjBfVkthV2Q4bzd6RnMybGw3NDJaS2wtaTlRcVh6YkFkZEEzWHlxdVNiVmdGSVd3Z2ZicDE0MjFXZTFmc3VmTGp3bW9Q?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-12-11T23:19:28Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Molly Bohannon",
+"title": "Facebook And Instagram Outage: Meta Says It’s ‘99% Of The Way’ To Being Fixed - Forbes",
+"description": "\"We’re 99% of the way there - just doing some last checks,\" Meta said in a tweet just after 5:30 p.m. EST.",
+"url": "https://www.forbes.com/sites/mollybohannon/2024/12/11/facebook-and-instagram-outage-meta-says-its-99-of-the-way-to-being-fixed/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6759d949af309b52f3230eeb/0x0.jpg?format=jpg&crop=2157,1214,x0,y38,safe&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-12-11T22:49:00Z",
+"content": "Meta apps Facebook, Instagram and WhatsApp were experiencing issues Wednesday afternoon as thousands of people reported outages for the apps on DownDetectorthough Meta said just after 5:30 p.m. EST t… [+3066 chars]"
+},
+-{
+-"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Justin Jouvenal",
+"title": "Supreme Court allows investor lawsuit against chipmaker Nvidia - The Washington Post",
+"description": "Shareholders filed a class-action lawsuit claiming they were misled by Nvidia, the microchip-making behemoth that is the world’s second-most-valuable company.",
+"url": "https://www.washingtonpost.com/politics/2024/12/11/nvidia-shareholder-lawsuit-supreme-court/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TK6IYAW4G365UGVJEP3SXYKRFI.JPG&w=1440",
+"publishedAt": "2024-12-11T22:43:06Z",
+"content": "The Supreme Court cleared the way Wednesday for shareholders to pursue a class-action lawsuit claiming they were misled by Nvidia, the microchip-making behemoth that is the worlds second-most-valuabl… [+3477 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investopedia"
+},
+"author": "Andrew Kessel",
+"title": "Adobe Stock Drops as Revenue Forecast Disappoints - Investopedia",
+"description": "Adobe issued a revenue outlook that missed analysts’ expectations, sending shares lower in extended trading Wednesday.",
+"url": "https://www.investopedia.com/adobe-q4-fy-2024-earnings-8758852",
+"urlToImage": "https://www.investopedia.com/thmb/sVp2iibAkFLNUNnVtRebT6fvfqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1843372331-617fab5c56d444e28670dbc7b6f393f2.jpg",
+"publishedAt": "2024-12-11T21:56:49Z",
+"content": "Adobe (ADBE) issued a revenue outlook that came in below analysts expectations, sending shares lower in extended trading Wednesday. \r\nThe Creative Cloud software provider projected 2025 revenue of $2… [+762 chars]"
+},
+-{
+-"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Ramishah Maruf",
+"title": "Elon Musk becomes the first person to reach a net worth of $400 billion - CNN",
+"description": "Elon Musk’s net worth has reached $400 billion, according to Bloomberg, making him the first to ever reach that level of wealth.",
+"url": "https://www.cnn.com/2024/12/11/business/elon-musk-400-billion-net-worth/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-19t112000z-427445120-rc2f4bazdq7j-rtrmadp-3-usa-trump-federal-workers.JPG?c=16x9&q=w_800,c_fill",
+"publishedAt": "2024-12-11T21:34:00Z",
+"content": "The richest person in the world just hit an even higher milestone.\r\nElon Musks net worth has reached $400 billion, according to Bloomberg, making him the first person ever to cross that mark.\r\nBehind… [+2296 chars]"
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "The Intercept",
+"title": "How to Protect Yourself From the Salt Typhoon Hack, No Matter What the FBI Says - The Intercept",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52b2QtX1R6TFlMcHRxMTVYNHVTTmI3SWM1MjdOU2pCdmdvVTUtNjc5eFVmRTJ4djFTak5PLTEwUk13eTlSOC1DVHR6MllybTFBcnJacEktMmJMeTVOUlhTR1dieWVhTWI3RzVKbUViemVrMWxFUDZLS3hB?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-12-11T20:54:57Z",
+"content": null
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "Yahoo Finance",
+"title": "Google-parent Alphabet hits record high after Trump taps Andrew Ferguson as FTC chair - Yahoo Finance",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU1REMlpjSXpPWWwzTmhhMzZmYkFCLXdWV1RfaXQxVFRRdFRGZ01kbGN0NUpOM1dRdWdkdXJKOXg4dEhnb0k0ME5NdmZ5SzRIbV9qRWpuVVE5NFQ4X1NiZTN6NERyakRmT3E5SnFxMlFjQUtYbGFBWkQ0ZnZmeUpVRWRueDNkSFk?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-12-11T20:41:18Z",
+"content": null
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "Benzinga",
+"title": "Alphabet's Quantum Willow Chip Wows Analyst: Google At The 'Leading Edge Of Technology Innovation' - Benzinga",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS2hXSHNleFdhODRnbEF2VVVBdzY1LU05bVN6TXF5NzBUZGp0YUo4a1dLOXNZOTJCUXNBUmFaRlRFVUpEM1VWVWVqSG92eG9zemdfSmpXVlBDMVFUQlNiRjd0MnBZTmQ0dHJzdkh1LU5rV0tsUWZucjA3YkQwZGVSOEVfdThKcFhhM3hGY0QzblZsMWxPajl0dzdOX1l6MzRMZHVneEJDMWoxRzZERlZlZFBsMlFwdG9xQUtBMDNaUXNORXVBcWRUdnl2cUtCMjA?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-12-11T20:33:43Z",
+"content": null
+},
+-{
+-"source": {
+"id": "fortune",
+"name": "Fortune"
+},
+"author": "Sasha Rogelberg",
+"title": "Return-to-office mandates are associated with an exodus of high performers, research finds - Fortune",
+"description": "When S&P 500 companies discouraged remote working, skilled employees quit—leaving hard-to-fill vacancies for employers.",
+"url": "https://fortune.com/2024/12/11/return-to-office-mandate-employees-study/",
+"urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/12/GettyImages-2188743978-e1733939364626.jpg?resize=1200,600",
+"publishedAt": "2024-12-11T19:29:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "CNBC",
+"title": "Budget deficit swells in November, pushing fiscal 2025 shortfall 64% higher than a year ago - CNBC",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSkpRai1uX1NIcG1CMmIyeEtUOW5GTlljbDVyWFl0Y2Z1YlpPVG1RQ1pIbkNnZDBaZ2QxelViLUIzdDNIMUVCVVhkNTQyTmdTQUdRUXliYkxtTVdOOUFzVkd0cXUxVFNkaFd1bnYtZXpZcXBHcTlFV1hUSlJlMjZvSjNrRDlnT1F6YjB4UVZXdXRhMlU3RG8wOEV4SEw0b01WWDlFQ042VXAtOFE5Uk9mOU9zVlRZbjBNU1gzQjNQb0pkY2QyZkU3RWYzS2N6Z9IB0wFBVV95cUxOb3pzSkNOa2J5Qmtzckx6WFh4ekZxanlsQ1FoeDk4RU5YbTRmQ3VhY0FwZno1V3FaVzY5Uk0xbW5qZ2d1VmZKWXhWTlEtdnI4bTBfQjViNG55NmN2bk5hV0NyTDI0Y1lCS2hYUk5BUXRQenNSSDR1R3F6blY0UGVBX29ZZG1WX25TZ1pKTGJ6a0J5UGpDbHE5Z01QZTdGZmtlWDgyLUZDbk9JZnRxdEtHUUc5azM0em1TZW1lVzlRWlZ1dHhEazV0UFRHVzhJalVxT01j?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-12-11T19:08:40Z",
+"content": null
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "Fox Business",
+"title": "November inflation increase won't derail Fed interest rate cuts - Fox Business",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pRzJMWGVMczRlNXVKV3J1YWJnczFhUWljTUY2MFh6eUJwQTVXREhfdWhoTnZKSURYV19TVEd1UEE1eWxvZjFfN21vVzJjemZ1ZXpIN0RCMlI1SFNTcUNRSjZ3QUNMcXRsMy1KODNTaU0yS295ZjRQTG0yLTTSAYIBQVVfeXFMTUMzTW5Ga1dBSU9Gb3R1Z3BYVU12Q1BQOXh2VjJLWnBfYTlFUDNWdWdKNHBWN0NFVThKZy14RWxpOTlrZkZheC1zR1R4SHRaZ3JWMXc0MFlwemhoRUdnSHRzc01mdy1GVk9lMG1lVzI2aFhBbGFRQ2pzRUlBODdubGtZZw?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-12-11T19:05:51Z",
+"content": null
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": "BBC.com",
+"title": "Hackers find hole in Krispy Kreme Doughnuts' cyber-security - BBC.com",
+"description": null,
+"url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sWFFJUjAzNUJBLUw0amtmblR2SlNSSk1Ic1haSXNQNHdoN1Zjc2NVX3ZRUUl5WTlFRXk2UDhodG82MjV1ZkhOVWdjNHRLdEVLaDkyU1RvSDllUdIBX0FVX3lxTE1raEUzOTE0d3B1OGlKM1B3Q2FqV1lldkUydG5xODJGSW9qaFUzbW1oXzE5Q1BEU3dqaEZiOEZsZlhWZWdHQXFjcmtQRXdmelVHMVUtcVNha3ptM3RkV2Ew?oc=5",
+"urlToImage": null,
+"publishedAt": "2024-12-11T18:42:33Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Financial Times"
+},
+"author": "Demetri Sevastopulo, Amelia Pollard, David Keohane, Leo Lewis",
+"title": "Biden administration split over US Steel deal - Financial Times",
+"description": "Pentagon, Treasury and state department all conclude $15bn Nippon Steel acquisition poses no national security risk",
+"url": "https://www.ft.com/content/c86cebe1-6ece-42cc-9d89-65d96bbd69c6",
+"urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9432e0c6-8de4-4389-a719-b9be747796cd.jpg?source=next-barrier-page",
+"publishedAt": "2024-12-11T17:44:15Z",
+"content": "Try unlimited access\r\nOnly $1 for 4 weeks\r\nThen $75 per month.\r\nComplete digital access to quality FT journalism on any device. \r\nCancel anytime during your trial."
+},
+-{
+-"source": {
+"id": "associated-press",
+"name": "Associated Press"
+},
+"author": "DEE-ANN DURBIN",
+"title": "Albertsons gives up on Kroger merger and sues the grocery chain for failing to secure deal - The Associated Press",
+"description": "Kroger and Albertsons’ plan for the largest U.S. supermarket merger in history has crumbled. The two companies accusing each other of not doing enough to push their proposed alliance through, and Albertsons pulled out of the $24.6 billion deal on Wednesday. T…",
+"url": "https://apnews.com/article/kroger-albertsons-79e366723d7287b2df71d96730fba76e",
+"urlToImage": "https://dims.apnews.com/dims4/default/29ddb1c/2147483647/strip/true/crop/3000x1688+0+281/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbd%2F96%2F2a5159203793703786371648e0b9%2F867242f8c57c462589b047bd90144866",
+"publishedAt": "2024-12-11T17:13:00Z",
+"content": "Kroger and Albertsons plan for the largest U.S. supermarket merger in history crumbled Wednesday, with Albertsons pulling out of the $24.6 billion deal and the two companies accusing each other of no… [+5275 chars]"
+}
+]
+}

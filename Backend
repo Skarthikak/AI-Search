@@ -1,0 +1,57 @@
+Create the Flask App:
+
+Navigate to your project directory:
+
+cd ai-search-engine
+Create a new directory for your backend:
+
+mkdir backend
+cd backend
+Create a virtual environment and activate it:
+
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+Install Flask and other necessary libraries:
+
+pip install Flask requests elasticsearch
+Create a new file app.py in the backend directory:
+
+from flask import Flask, request, jsonify
+from elasticsearch import Elasticsearch
+import requests
+
+app = Flask(__name__)
+es = Elasticsearch()
+
+# Fetch AI models from Hugging Face Model Hub
+def fetch_ai_models():
+    response = requests.get("https://huggingface.co/api/models")
+    return response.json()
+
+# Fetch AI news updates from NewsAPI
+def fetch_ai_news():
+    api_key = "YOUR_NEWSAPI_KEY"  # Replace with your NewsAPI key
+    response = requests.get(f"https://newsapi.org/v2/everything?q=artificial+intelligence&apiKey={api_key}")
+    return response.json()
+
+@app.route('/search', methods=['GET'])
+def search():
+    query = request.args.get('q')
+    if not query:
+        return jsonify({"error": "No query provided"}), 400
+
+    body = {
+        "query": {
+            "multi_match": {
+                "query": query,
+                "fields": ["title", "content"]
+            }
+        }
+    }
+
+    response = es.search(index="ai_search_engine", body=body)
+    results = [hit["_source"] for hit in response["hits"]["hits"]]
+    return jsonify(results)
+
+if __name__ == '__main__':
+    app.run(debug=True)

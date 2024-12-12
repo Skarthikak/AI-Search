@@ -1,0 +1,61 @@
+Set Up the Frontend
+Create the Frontend Directory:
+
+Navigate back to the root of your project:
+
+cd ..
+Create a new directory for your frontend:
+
+mkdir frontend
+cd frontend
+Initialize a new React app using Create React App:
+
+npx create-react-app .
+Create the Search Component:
+
+Open src/App.js and replace its content with the following code:
+
+import React, { useState } from 'react';
+import axios from 'axios';
+
+function App() {
+  const [query, setQuery] = useState('');
+  const [results, setResults] = useState([]);
+
+  const handleSearch = async () => {
+    try {
+      const response = await axios.get(`http://localhost:5000/search?q=${query}`);
+      setResults(response.data);
+    } catch (error) {
+      console.error('Error fetching search results:', error);
+    }
+  };
+
+  return (
+    <div>
+      <h1>AI Search Engine</h1>
+      <input
+        type="text"
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
+        placeholder="Search for AI models and news"
+      />
+      <button onClick={handleSearch}>Search</button>
+      <div>
+        {results.map((result, index) => (
+          <div key={index}>
+            <h2>{result.title}</h2>
+            <p>{result.content}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+export default App;
+Run the Frontend:
+
+Start the React development server:
+
+npm start
